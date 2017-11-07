@@ -1,0 +1,13 @@
+/*载入arcgis样式库*/
+@import url("//js.arcgis.com/3.17/dijit/themes/tundra/tundra.css");
+@import url("//js.arcgis.com/3.17/esri/css/esri.css");
+.mapView {
+    height:  820px;
+    width:  100%;
+    margin: 0;
+    padding: 5px;
+    border: 2px solid #fff;	
+}
+#content-Main {
+	padding: 0 5px;
+}

@@ -1,0 +1,87 @@
+/*header change password*/
+#change-pwd {
+	color: #eee;
+	text-decoration: none;
+}
+
+#change-pwd:hover {
+	text-decoration: underline;
+	color: #f86c6b;
+}
+
+.red-more a {
+	color: #f86c6b;
+}
+
+.event-log {
+	list-style: none;
+	padding-left: 5px;
+	margin-top: 15px;
+}
+
+.event-log li {
+	height: 35px;
+	line-height: 35px;
+}
+
+.event-log li:hover {
+	background-color: #ccc;
+}
+
+.event-log li a {
+	color: #333;
+}
+
+.event-log li:hover a {
+	color: #fff;
+}
+
+.event-log .log-date {
+	padding-right: 5px;
+}
+
+.river-log {
+	list-style: none;
+	padding-left: 5px;
+	margin-top: 15px;
+}
+
+.river-log li {
+	height: 35px;
+	line-height: 35px;
+}
+
+.river-log li:hover {
+	background-color: #ccc;
+}
+
+.river-log li a {
+	color: #333;
+}
+
+.river-log .log-date {
+	padding-right: 5px;
+}
+
+.exposure {
+	list-style: none;
+	padding-left: 5px;
+	margin-top: 15px;
+}
+
+.exposure li {
+	height: 35px;
+	line-height: 35px;
+}
+
+.exposure li:hover {
+	background-color: #ccc;
+}
+
+.exposure li a {
+	color: #333;
+}
+
+.exposure .log-date {
+	padding-right: 5px;
+}
